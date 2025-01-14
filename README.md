@@ -1,4 +1,6 @@
 ## Hi there 👋
+📖 I’m currently reading *The Goblin Emperor* by Katherine Addison. 
+➡ Next in my queue is *Yeonnam-dong's Smiley Laundromat* by Kim Jiyun.
 
 <!--
 **catamaraa/catamaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
