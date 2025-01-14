@@ -1,5 +1,5 @@
 ## Hi there 👋
-📖 I’m currently reading *The Goblin Emperor* by Katherine Addison. 
+📖 I’m currently reading *The Goblin Emperor* by Katherine Addison. <br>
 ➡ Next in my queue is *Yeonnam-dong's Smiley Laundromat* by Kim Jiyun.
 
 <!--
